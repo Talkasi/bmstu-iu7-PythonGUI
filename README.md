@@ -1,2 +1,2 @@
 # bmstu-iu7-PythonGUI
-🐢 Графический интерфейс на языке программирования Python (2 семестр)
+🐢 Graphical interface in the Python programming language (2nd term)
